@@ -39,9 +39,12 @@ Then the AI's role in pair programming is going to quickly transition beyond sug
 
 With the current state-of-the-art foundational models, there’s ample scope for enhancing these tools to become much more effective pair programming agents. Any next-generation language models will only accelerate this transition.
 
-The programmer of the future might be more like an architect than a craftsman. Their focus will be high-level design, problem-solving, and ensuring that AI tools are aligned with project objectives and creative vision. Programming will be more about guiding and less about crafting every line of code.
+The programmer of the future might be more like an architect than a craftsman. Their focus will be high-level design, problem-solving, and ensuring that AI tools are aligned with project objectives and creative vision.
 
+This transition is not limited to code, it's just the natural starting place due to the structured nature of organized repos and file structures. 
+
+This how most computer-aided creative software will work soon. Our Word docs and spreadsheets will have agents integrated in a similar manner. Agents will command the word processor just like they currently do the IDE, with input and oversight from practioners. They will have access to your files in the same way Cursor or Copilot can access your codebase. Agents will abstract away formulas and formating from spreadsheets almost entirely.
+
+All this to say, the innovations from Cursor and Copilot are coming to software near you.
 
 *Note: This document was written using Cursor with assistance from GPT-4.*
-
-
