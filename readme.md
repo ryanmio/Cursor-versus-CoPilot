@@ -8,7 +8,7 @@ This document provides a comparison between two AI pair programming tools: Curso
 |----------|--------|-------|
 | Chat | Cursor | Cursor's chat sidebar has a number of unique features: GPT model selection, more commands, create documentation from urls, deep linking to files and functions. |
 | Code Generation | Copilot | GitHub Copilot is faster and generally more accurate in real-time code generation and suggestions. |
-| Codebase RAG | Tie | Both are very good at understanding your codebase using RAG. Co-pilot supports '@workspace' while Cursor supports "chat with codebase". Cursor's RAG algorithms seem to be better at finding and including relevant code/files in the context and you can add specific files/folders to the scope manually. Copilot seems to rely on filenames while cursor will find the context in a file even with a misleading name. |
+| Codebase RAG | Tie | Both are very good at understanding your codebase using RAG. Co-pilot supports '@workspace' while Cursor supports 'chat with codebase'. Cursor's RAG algorithms seem to be better at finding and including relevant code/files in the context and you can add specific files/folders to the scope manually. Copilot seems to rely on filenames while cursor will find the context in a file even with a misleading name. |
 | Context Length | Cursor | Cursor supports longer messages and allows including additional files, folders, etc., in the context using @. |
 | Cost | Copilot | Cursor's monthly cost is $20, while GitHub Copilot is $10 for individuals. Cursor offers a full-featured free option with limited usage, and GitHub Copilot has a full-featured limited-time free trial. |
 | Customizability | Cursor | Cursor allows more customization options for the AI functionality |
