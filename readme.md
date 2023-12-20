@@ -41,3 +41,8 @@ Then the AI's role in pair programming is going to quickly transition beyond sug
 With the current state-of-the-art foundational models, there’s ample scope for enhancing these tools to become much more effective pair programming agents. Any next-generation language models will only accelerate this transition.
 
 The programmer of the future might be more like an architect than a craftsman. Their focus will be high-level design, problem-solving, and ensuring that AI tools are aligned with project objectives and creative vision. Programming will be more about guiding and less about crafting every line of code.
+
+
+*Note: This document was written using Cursor with assistance from GPT-4.*
+
+
