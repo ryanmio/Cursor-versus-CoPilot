@@ -22,8 +22,7 @@ This document provides a comparison between two AI pair programming tools: Curso
 | Direct Code Editing | Cursor | Cursor's '/Edit' and 'Apply to Current File' features allows for direct application of code edits from the chat window. |
 | Terminal | Cursor | Cursor supports AI features in the terminal panel allowing it to generate terminal commands for you or auto-debug terminal errors. |
 
- <p align="center">:drum: :drum: :drum: And the overall winner is... :drum: :drum: :drum:</p> |
- :---:|
+ <p align="center">:drum: :drum: :drum: And the overall winner is... :drum: :drum: :drum:</p> 
  <p align="center" style="font-size:2em;">Cursor!</p>
 
 ## A Non-Traditional Coder's Perspective on AI Pair Programming
